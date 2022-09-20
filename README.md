@@ -22,3 +22,9 @@ Atividade realizada para aperfeiçoamento de técnicas de análise exploratória
 [Análise exploratória com gráficos e visualização de dados.](https://github.com/igormartins0301/visualizacao_de_dados)
 
 Projeto realizado com o objetivo de entender a relação entre PIB e Empenho em diárias nos municípios do Rio grande do sul, nesse projeto utilizei gráficos para realizar uma análise exploratória aliada a visualização de dados.
+
+
+### Projeto 4
+[Dashboard de Ecommerce] (https://datastudio.google.com/s/u19erLb7pKY)
+
+Dashboard realizado para avaliação de uma campanha de tráfego em ecommerce, utilizando métricas de faturamento, leads e custos por canal de tráfego.
