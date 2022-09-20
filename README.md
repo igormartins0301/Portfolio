@@ -25,6 +25,6 @@ Projeto realizado com o objetivo de entender a relação entre PIB e Empenho em 
 
 
 ### Projeto 4
-[Dashboard de Ecommerce] (https://datastudio.google.com/s/u19erLb7pKY)
+[Dashboard de Ecommerce](https://datastudio.google.com/s/u19erLb7pKY)
 
 Dashboard realizado para avaliação de uma campanha de tráfego em ecommerce, utilizando métricas de faturamento, leads e custos por canal de tráfego.
