@@ -28,3 +28,8 @@ Projeto realizado com o objetivo de entender a relação entre PIB e Empenho em 
 [Dashboard de E-commerce](https://datastudio.google.com/s/u19erLb7pKY)
 
 Dashboard realizado para avaliação de uma campanha de tráfego em ecommerce, utilizando métricas de faturamento, leads e custos por canal de tráfego.
+
+### Projeto 5
+[Utilizando Regressão linear simples, projeto de Data science](https://datastudio.google.com/s/u19erLb7pKY)
+
+Fiz um trabalho com o objetivo de responder uma simples pergunta, "Posso prever os gastos de abrir uma franquia sabendo apenas qual a taxa anual que a empresa matriz me cobra?"... A resposta parece óbvia, mas foi uma ótima maneira de utilizar a regressão linear simples com Python.
