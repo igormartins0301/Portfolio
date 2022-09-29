@@ -33,3 +33,6 @@ Dashboard realizado para avaliação de uma campanha de tráfego em ecommerce, u
 [Utilizando Regressão linear simples, projeto de Data science](https://github.com/igormartins0301/Regressao_Linear/blob/main/Projeto_Regress%C3%A3o_Linear.ipynb)
 
 Fiz um trabalho com o objetivo de responder uma simples pergunta, "Posso prever os gastos de abrir uma franquia sabendo apenas qual a taxa anual que a empresa matriz me cobra?"... A resposta parece óbvia, mas foi uma ótima maneira de utilizar a regressão linear simples com Python.
+
+### Projeto 6
+[Dashboard de Logística desenvolvido em Power BI](<iframe title="Dashboard Logística - Página 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzJlY2NkYzYtNzQ5MC00MWM4LWFlOTgtNzUyMTJiMjY3ZTg2IiwidCI6ImM2ODQ5MjhiLWQ0ZmYtNGQ3Ny1hNTliLTZlODI2NzcxMmM0ZSJ9" frameborder="0" allowFullScreen="true"></iframe>)
