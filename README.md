@@ -7,7 +7,7 @@ Este Portfólio é uma compilação de todos os projetos de Data Science e Data 
 # Projetos
 
 ### Projeto 1
-[Recursos Humanos](https://github.com/igormartins0301/1.-Projeto-RH)
+[Recursos Humanos](https://github.com/igormartins0301/1.-Projeto-RH/blob/main/Projeto_1_RH.ipynb)
 
 Nesse projeto utilizei o Python para contribuir com o RH, com o objetivo de contratar os profissionais com perfil adequado, a fim de reduzir o custo e o tempo de contratação, bem como a qualidade do treinamento inicial ou planejamento dos cursos e categorização dos candidatos.
 
